@@ -1,10 +1,14 @@
-#include "./myawslib.h"
+/*
+*     Лабораторная работа 3
+*     "Бегущая строка"
+*     Автор:
+*     Дата создания:
+*/
 
 void setup(){
-  pinMode(13,OUTPUT);
+
 }
 
 void loop(){
-//  digitalWrite(13,HIGH);
-  blink(13,500,500);
+
 }
