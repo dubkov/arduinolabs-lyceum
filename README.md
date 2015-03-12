@@ -74,6 +74,13 @@
 
         git push
 
+Дополнительно: Где что брать для домашней практики
+=====
+
+ + git bash: http://git-scm.com (Download for Windows)
+ + Sublime text 3: http://www.sublimetext.com/3 (Windows или Windows 64-bit)
+ + Stino: https://github.com/Robot-Will/Stino (Download ZIP)
+
 Дополнительно: Более полное использование Git
 =====
 
