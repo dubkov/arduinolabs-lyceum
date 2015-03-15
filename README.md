@@ -25,6 +25,7 @@
  + 08
  + 09
  + 11
+ + 13
  + 14
  + 16
  + Vaio 8
@@ -139,7 +140,7 @@
 
 Настройте оригинальный репозиторий, с которого вы сделали форк, как *удаленный репозиторий (remote)*:
 
-    git remote add main http://github.com/dubkov/arduinolabs-lyceum master
+    git remote add main http://github.com/dubkov/arduinolabs-lyceum
 
 Получите последние изменения из оригинального репозитория:
 
